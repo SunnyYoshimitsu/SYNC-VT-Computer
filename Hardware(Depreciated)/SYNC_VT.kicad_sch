@@ -1,0 +1,279 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "12f8e1de-e730-4c6a-858d-a25c752bf173")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 77.47 52.832)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "1fcf6081-df13-4b98-99f7-6236d9f78df3")
+		(property "Sheetname" "Power System"
+			(at 77.47 52.1204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powersystem.kicad_sch"
+			(at 77.47 76.5306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 86.36)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "3de99e37-761a-48a9-9141-684126711901")
+		(property "Sheetname" "WifiBT"
+			(at 140.97 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "WifiBT.kicad_sch"
+			(at 140.97 110.0586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 86.36)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "58816a4a-eedc-473d-8bb3-66dada3f54c9")
+		(property "Sheetname" "Processing System"
+			(at 109.22 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "processingsytem.kicad_sch"
+			(at 109.22 110.0586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.196 86.614)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "99b2e70b-e9f6-4038-b0d9-3a0b11f50b52")
+		(property "Sheetname" "IO"
+			(at 171.196 85.9024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IO.kicad_sch"
+			(at 171.196 110.3126 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 52.832)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "bcacd93d-4740-42e4-baad-b6ff0916cae0")
+		(property "Sheetname" "DDR3"
+			(at 109.22 52.1204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR3.kicad_sch"
+			(at 109.22 76.5306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.716 52.832)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "dd6dab22-cd6e-44c2-a4ff-c8666d97f882")
+		(property "Sheetname" "USB"
+			(at 140.716 52.1204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 140.716 76.5306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.216 86.36)
+		(size 23.114 23.114)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "ea4824b7-0ced-47a5-b433-a4a9b6fd3873")
+		(property "Sheetname" "Storage"
+			(at 77.216 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Storage.kicad_sch"
+			(at 77.216 110.0586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SYNC_VT"
+				(path "/12f8e1de-e730-4c6a-858d-a25c752bf173"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
