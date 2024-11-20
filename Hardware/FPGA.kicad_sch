@@ -4556,9 +4556,39 @@
 		(at 204.47 39.37)
 		(uuid "fd7c0b1d-4083-4d9f-bef3-1d2a43dc26a8")
 	)
+	(polyline
+		(pts
+			(xy 177.038 109.982) (xy 177.038 165.608)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba6f0a1-7c5b-4a44-b51d-28ed0faba237")
+	)
+	(polyline
+		(pts
+			(xy 11.938 109.982) (xy 177.038 109.982)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7145ce08-b4a6-4341-8455-05c95e8ab2e3")
+	)
+	(polyline
+		(pts
+			(xy 177.038 12.192) (xy 177.038 109.982)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ff8e0a9-9efd-4b15-b848-21c769978222")
+	)
 	(global_label "GPIO2"
 		(shape bidirectional)
-		(at 27.94 41.91 180)
+		(at 57.15 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4568,7 +4598,7 @@
 		)
 		(uuid "00ee2da3-cbc0-423c-9e24-8eb2251a22d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 41.91 0)
+			(at 47.3687 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4580,7 +4610,7 @@
 	)
 	(global_label "GPIO4"
 		(shape bidirectional)
-		(at 27.94 72.39 180)
+		(at 57.15 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4590,7 +4620,7 @@
 		)
 		(uuid "0aef4cdc-25fa-4eaf-8630-1de1d1c2636c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 72.39 0)
+			(at 47.3687 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4602,7 +4632,7 @@
 	)
 	(global_label "RAM_DQ7"
 		(shape bidirectional)
-		(at 93.98 64.77 0)
+		(at 123.19 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4612,7 +4642,7 @@
 		)
 		(uuid "1665eec3-8abd-464a-a13a-9d5ee45848ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 64.77 0)
+			(at 135.8741 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +4654,7 @@
 	)
 	(global_label "~{RAM_CS1}"
 		(shape input)
-		(at 93.98 59.69 0)
+		(at 123.19 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4634,7 +4664,7 @@
 		)
 		(uuid "16a3e4a2-74f7-40bc-8e8a-426b88a13c2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.4318 59.69 0)
+			(at 134.6418 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4646,7 +4676,7 @@
 	)
 	(global_label "CK-"
 		(shape bidirectional)
-		(at 27.94 90.17 180)
+		(at 57.15 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4656,7 +4686,7 @@
 		)
 		(uuid "2070a6bd-afc4-4788-b549-be0174320a11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7311 90.17 0)
+			(at 48.9411 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,7 +4698,7 @@
 	)
 	(global_label "D1-"
 		(shape bidirectional)
-		(at 93.98 69.85 0)
+		(at 123.19 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4678,7 +4708,7 @@
 		)
 		(uuid "252521f9-73a7-4e7b-9af0-c51ca66367b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.1284 69.85 0)
+			(at 131.3384 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4690,7 +4720,7 @@
 	)
 	(global_label "RAM_DQ1"
 		(shape bidirectional)
-		(at 93.98 46.99 0)
+		(at 123.19 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4700,7 +4730,7 @@
 		)
 		(uuid "254d499f-fe32-4cf3-9494-c936cce1651e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 46.99 0)
+			(at 135.8741 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4712,7 +4742,7 @@
 	)
 	(global_label "RAM_DQ0"
 		(shape bidirectional)
-		(at 93.98 44.45 0)
+		(at 123.19 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4722,7 +4752,7 @@
 		)
 		(uuid "31f1a308-8eb9-4955-9fd7-d54502f53649")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 44.45 0)
+			(at 135.8741 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4734,7 +4764,7 @@
 	)
 	(global_label "CK+"
 		(shape bidirectional)
-		(at 27.94 87.63 180)
+		(at 57.15 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4744,7 +4774,7 @@
 		)
 		(uuid "33d81a72-7557-4f94-ba3f-8ed49220343c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7311 87.63 0)
+			(at 48.9411 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,7 +4786,7 @@
 	)
 	(global_label "D1+"
 		(shape bidirectional)
-		(at 93.98 67.31 0)
+		(at 123.19 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4766,7 +4796,7 @@
 		)
 		(uuid "341916b5-b364-4c30-a984-7ed4601d4738")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.1284 67.31 0)
+			(at 131.3384 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4778,7 +4808,7 @@
 	)
 	(global_label "RAM_DQ3"
 		(shape bidirectional)
-		(at 93.98 85.09 0)
+		(at 123.19 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4788,7 +4818,7 @@
 		)
 		(uuid "3b1f1c2f-bc83-450c-9f40-f7edd30240e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 85.09 0)
+			(at 135.8741 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4800,7 +4830,7 @@
 	)
 	(global_label "RAM_DQ5"
 		(shape bidirectional)
-		(at 93.98 80.01 0)
+		(at 123.19 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4810,7 +4840,7 @@
 		)
 		(uuid "42c975b2-e8c6-4670-b757-cee62ce873d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 80.01 0)
+			(at 135.8741 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4822,7 +4852,7 @@
 	)
 	(global_label "RAM_DQ6"
 		(shape bidirectional)
-		(at 93.98 77.47 0)
+		(at 123.19 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4832,7 +4862,7 @@
 		)
 		(uuid "468dfa8f-184d-401b-b6ea-6d0075b6b8a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 77.47 0)
+			(at 135.8741 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,7 +4874,7 @@
 	)
 	(global_label "GPIO11"
 		(shape bidirectional)
-		(at 93.98 36.83 0)
+		(at 123.19 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4854,7 +4884,7 @@
 		)
 		(uuid "4d224285-93b2-4ed2-939e-a3be2a77546d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.7613 36.83 0)
+			(at 132.9713 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4866,7 +4896,7 @@
 	)
 	(global_label "GPIO18"
 		(shape bidirectional)
-		(at 27.94 64.77 180)
+		(at 57.15 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4876,7 +4906,7 @@
 		)
 		(uuid "519e2ff8-4e87-4c37-b630-d9cc6e862830")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 64.77 0)
+			(at 47.3687 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4888,7 +4918,7 @@
 	)
 	(global_label "RAM_DQ2"
 		(shape bidirectional)
-		(at 93.98 49.53 0)
+		(at 123.19 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4898,7 +4928,7 @@
 		)
 		(uuid "747f8ce5-f2b4-4690-a4b8-81b481680008")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 49.53 0)
+			(at 135.8741 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4910,7 +4940,7 @@
 	)
 	(global_label "~{RAM_RST}"
 		(shape input)
-		(at 93.98 41.91 0)
+		(at 123.19 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4920,7 +4950,7 @@
 		)
 		(uuid "76483946-ec76-4a10-ab82-00c4e0130b50")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.1899 41.91 0)
+			(at 134.3999 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4932,7 +4962,7 @@
 	)
 	(global_label "RAM_CLK"
 		(shape input)
-		(at 93.98 52.07 0)
+		(at 123.19 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4942,7 +4972,7 @@
 		)
 		(uuid "7a3bc2b9-6f9b-4314-8f1b-c80009e1222c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3109 52.07 0)
+			(at 134.5209 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4954,7 +4984,7 @@
 	)
 	(global_label "GPIO10"
 		(shape bidirectional)
-		(at 27.94 69.85 180)
+		(at 57.15 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4964,7 +4994,7 @@
 		)
 		(uuid "7d3cbc37-ce2b-4aee-8540-deaafa780adb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 69.85 0)
+			(at 47.3687 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4976,7 +5006,7 @@
 	)
 	(global_label "GPIO3"
 		(shape bidirectional)
-		(at 27.94 80.01 180)
+		(at 57.15 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4986,7 +5016,7 @@
 		)
 		(uuid "7e58b23e-3186-413e-aa09-3b37ee01c341")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 80.01 0)
+			(at 47.3687 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4998,7 +5028,7 @@
 	)
 	(global_label "D0+"
 		(shape bidirectional)
-		(at 27.94 52.07 180)
+		(at 57.15 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5008,7 +5038,7 @@
 		)
 		(uuid "7f0a7110-107d-4544-84dc-337d27d8729b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7916 52.07 0)
+			(at 49.0016 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +5050,7 @@
 	)
 	(global_label "GPIO25"
 		(shape bidirectional)
-		(at 27.94 77.47 180)
+		(at 57.15 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5030,7 +5060,7 @@
 		)
 		(uuid "7f688ad9-f0df-4f0b-bab8-ee262f482c35")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 77.47 0)
+			(at 47.3687 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5042,7 +5072,7 @@
 	)
 	(global_label "GPIO21"
 		(shape bidirectional)
-		(at 34.29 143.51 180)
+		(at 64.77 168.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5052,7 +5082,7 @@
 		)
 		(uuid "7fa1c117-e12e-40e6-9aff-76c6163048e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2992 143.51 0)
+			(at 53.7792 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5064,7 +5094,7 @@
 	)
 	(global_label "D2-"
 		(shape bidirectional)
-		(at 27.94 36.83 180)
+		(at 57.15 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5074,7 +5104,7 @@
 		)
 		(uuid "8eec54a7-9b19-4491-9ac9-0d0dfa1ee1b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7916 36.83 0)
+			(at 49.0016 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +5116,7 @@
 	)
 	(global_label "GPIO12"
 		(shape bidirectional)
-		(at 93.98 39.37 0)
+		(at 123.19 43.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5096,7 +5126,7 @@
 		)
 		(uuid "9477631f-285a-42bb-935b-15159a032da9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.7613 39.37 0)
+			(at 132.9713 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,7 +5138,7 @@
 	)
 	(global_label "GPIO22"
 		(shape bidirectional)
-		(at 34.29 138.43 180)
+		(at 64.77 163.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5118,7 +5148,7 @@
 		)
 		(uuid "ae96a476-42c8-451e-b2af-109d1afab344")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2992 138.43 0)
+			(at 53.7792 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +5160,7 @@
 	)
 	(global_label "~{RAM_CLK}"
 		(shape input)
-		(at 93.98 54.61 0)
+		(at 123.19 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5140,7 +5170,7 @@
 		)
 		(uuid "cf1720c1-84e0-4513-a42d-c915db9be191")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.3109 54.61 0)
+			(at 134.5209 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5152,7 +5182,7 @@
 	)
 	(global_label "GPIO19"
 		(shape bidirectional)
-		(at 27.94 74.93 180)
+		(at 57.15 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5162,7 +5192,7 @@
 		)
 		(uuid "d9ef1d0a-804c-44a5-885a-12f233362779")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 74.93 0)
+			(at 47.3687 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5174,7 +5204,7 @@
 	)
 	(global_label "GPIO20"
 		(shape bidirectional)
-		(at 27.94 67.31 180)
+		(at 57.15 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5184,7 +5214,7 @@
 		)
 		(uuid "dec75349-4253-4a5e-955c-14f0013a8d5b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 67.31 0)
+			(at 47.3687 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5196,7 +5226,7 @@
 	)
 	(global_label "GPIO24"
 		(shape bidirectional)
-		(at 34.29 125.73 180)
+		(at 64.77 151.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5206,7 +5236,7 @@
 		)
 		(uuid "e220c893-e1e4-4c38-98b1-31ccb3c1c6c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2992 125.73 0)
+			(at 53.7792 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5218,7 +5248,7 @@
 	)
 	(global_label "GPIO5"
 		(shape bidirectional)
-		(at 27.94 49.53 180)
+		(at 57.15 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5228,7 +5258,7 @@
 		)
 		(uuid "e668f3ab-11ed-419c-86eb-02a46aca029f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.1587 49.53 0)
+			(at 47.3687 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5240,7 +5270,7 @@
 	)
 	(global_label "RWDS"
 		(shape bidirectional)
-		(at 93.98 82.55 0)
+		(at 123.19 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5250,7 +5280,7 @@
 		)
 		(uuid "e8b3b50e-43ab-42f3-afc6-d9343a910a69")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.2774 82.55 0)
+			(at 132.4874 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5262,7 +5292,7 @@
 	)
 	(global_label "D0-"
 		(shape bidirectional)
-		(at 27.94 54.61 180)
+		(at 57.15 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5272,7 +5302,7 @@
 		)
 		(uuid "ef091158-2e36-45fb-8386-c90123cc6cc0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7916 54.61 0)
+			(at 49.0016 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5284,7 +5314,7 @@
 	)
 	(global_label "~{RAM_CS0}"
 		(shape input)
-		(at 93.98 74.93 0)
+		(at 123.19 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5294,7 +5324,7 @@
 		)
 		(uuid "f075210c-603f-4365-b7ec-9ec49e469d11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.4318 74.93 0)
+			(at 134.6418 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5306,7 +5336,7 @@
 	)
 	(global_label "RAM_DQ4"
 		(shape bidirectional)
-		(at 93.98 62.23 0)
+		(at 123.19 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5316,7 +5346,7 @@
 		)
 		(uuid "f0fc04b2-107a-46a6-ae2e-f255a22b0398")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.6641 62.23 0)
+			(at 135.8741 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5328,7 +5358,7 @@
 	)
 	(global_label "GPIO23"
 		(shape bidirectional)
-		(at 34.29 135.89 180)
+		(at 64.77 161.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5338,7 +5368,7 @@
 		)
 		(uuid "fa33799b-c895-4d1c-966d-fb215dc261e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.2992 135.89 0)
+			(at 53.7792 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5350,7 +5380,7 @@
 	)
 	(global_label "D2+"
 		(shape bidirectional)
-		(at 27.94 39.37 180)
+		(at 57.15 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5360,7 +5390,7 @@
 		)
 		(uuid "fffc8381-91ec-4873-a219-b382b87c797e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.7916 39.37 0)
+			(at 49.0016 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5372,7 +5402,7 @@
 	)
 	(symbol
 		(lib_id "Personal:XC7Z010-1CLG225I")
-		(at 60.96 62.23 0)
+		(at 90.17 66.04 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5381,7 +5411,7 @@
 		(fields_autoplaced yes)
 		(uuid "39f0beda-bcce-4a5f-920b-5914c24d8310")
 		(property "Reference" "U3"
-			(at 60.96 24.13 0)
+			(at 90.17 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5389,7 +5419,7 @@
 			)
 		)
 		(property "Value" "XC7Z010-1CLG225I"
-			(at 60.96 26.67 0)
+			(at 90.17 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5397,7 +5427,7 @@
 			)
 		)
 		(property "Footprint" "Sync_VT extras:225-LFBGA"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5407,7 +5437,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5416,7 +5446,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5425,7 +5455,7 @@
 			)
 		)
 		(property "MF" "Xilinx Inc."
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5435,7 +5465,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" "16134"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5445,7 +5475,7 @@
 			)
 		)
 		(property "PACKAGE" "CSPBGA-225 Xilinx"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5455,7 +5485,7 @@
 			)
 		)
 		(property "MPN" "XC7Z010-1CLG225I"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5465,7 +5495,7 @@
 			)
 		)
 		(property "PRICE" "61.07 USD"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5475,7 +5505,7 @@
 			)
 		)
 		(property "Package" "CSPBGA-225 Xilinx"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5485,7 +5515,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/XC7Z010-1CLG225I/Xilinx+Inc./view-part/?ref=eda"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +5525,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5505,7 +5535,7 @@
 			)
 		)
 		(property "PARREV" "1.8"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5515,7 +5545,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XC7Z010-1CLG225I/Xilinx+Inc./view-part/?ref=snap"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5525,7 +5555,7 @@
 			)
 		)
 		(property "MP" "XC7Z010-1CLG225I"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5535,7 +5565,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5545,7 +5575,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            Dual ARM® Cortex®-A9 MPCore™ with CoreSight™ System On Chip (SOC) IC Zynq®-7000 Artix™-7 FPGA, 28K Logic Cells   667MHz 225-CSPBGA (13x13)\n                        \n"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5555,7 +5585,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5565,7 +5595,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Bad"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5575,7 +5605,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Xilinx"
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5585,7 +5615,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 60.96 62.23 0)
+			(at 90.17 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6279,7 +6309,7 @@
 	)
 	(symbol
 		(lib_id "Personal:XC7Z010-1CLG225I")
-		(at 62.23 135.89 0)
+		(at 92.71 161.29 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6288,7 +6318,7 @@
 		(fields_autoplaced yes)
 		(uuid "42cae0ed-7c52-4d84-af38-21186d70c37f")
 		(property "Reference" "U3"
-			(at 86.36 133.3499 0)
+			(at 116.84 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6297,7 +6327,7 @@
 			)
 		)
 		(property "Value" "XC7Z010-1CLG225I"
-			(at 86.36 135.8899 0)
+			(at 116.84 161.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6306,7 +6336,7 @@
 			)
 		)
 		(property "Footprint" "Sync_VT extras:225-LFBGA"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6316,7 +6346,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6325,7 +6355,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6334,7 +6364,7 @@
 			)
 		)
 		(property "MF" "Xilinx Inc."
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6344,7 +6374,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" "16134"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6354,7 +6384,7 @@
 			)
 		)
 		(property "PACKAGE" "CSPBGA-225 Xilinx"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6364,7 +6394,7 @@
 			)
 		)
 		(property "MPN" "XC7Z010-1CLG225I"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6374,7 +6404,7 @@
 			)
 		)
 		(property "PRICE" "61.07 USD"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6384,7 +6414,7 @@
 			)
 		)
 		(property "Package" "CSPBGA-225 Xilinx"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6394,7 +6424,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/XC7Z010-1CLG225I/Xilinx+Inc./view-part/?ref=eda"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6404,7 +6434,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6414,7 +6444,7 @@
 			)
 		)
 		(property "PARREV" "1.8"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6424,7 +6454,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XC7Z010-1CLG225I/Xilinx+Inc./view-part/?ref=snap"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6434,7 +6464,7 @@
 			)
 		)
 		(property "MP" "XC7Z010-1CLG225I"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6444,7 +6474,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6454,7 +6484,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            Dual ARM® Cortex®-A9 MPCore™ with CoreSight™ System On Chip (SOC) IC Zynq®-7000 Artix™-7 FPGA, 28K Logic Cells   667MHz 225-CSPBGA (13x13)\n                        \n"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6464,7 +6494,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6474,7 +6504,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Bad"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6484,7 +6514,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Xilinx"
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6494,7 +6524,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 62.23 135.89 0)
+			(at 92.71 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
