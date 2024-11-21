@@ -6298,6 +6298,56 @@
 		)
 		(uuid "07ac898a-e98f-41dd-8a04-49add8b5b9d7")
 	)
+	(text "SD Card plug"
+		(exclude_from_sim no)
+		(at 187.198 15.494 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2e18a9db-f984-4b81-80de-521390b67e15")
+	)
+	(text "33.33MHz reference cock"
+		(exclude_from_sim no)
+		(at 26.162 15.494 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "72dfa078-473d-46fd-903c-09c1a55eef9e")
+	)
+	(text "Octal SPI NOR FLash"
+		(exclude_from_sim no)
+		(at 108.712 15.748 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b319e74b-fd33-4db5-9d50-c55d0aa65f9e")
+	)
+	(text "PS IO pins"
+		(exclude_from_sim no)
+		(at 19.558 89.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b3776305-3386-4cd5-8e33-10032f07b8bb")
+	)
+	(text "Hard wired Boot option"
+		(exclude_from_sim no)
+		(at 191.516 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b4c88c8b-8978-4534-ad69-a9d5515c0b02")
+	)
 	(global_label "GPIO1"
 		(shape bidirectional)
 		(at 67.31 151.13 180)

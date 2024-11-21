@@ -4349,6 +4349,14 @@
 		)
 	)
 	(no_connect
+		(at 64.77 156.21)
+		(uuid "02ed1fbc-3709-44ad-a925-8a16fa79707e")
+	)
+	(no_connect
+		(at 57.15 63.5)
+		(uuid "060b22f0-ed2a-48a3-9fd9-bb93e7dc760a")
+	)
+	(no_connect
 		(at 204.47 49.53)
 		(uuid "0737f901-e477-4ac7-90d0-cb2af341eb3f")
 	)
@@ -4369,6 +4377,10 @@
 		(uuid "0d7422ee-e451-4272-8bef-f4b00bb11ddb")
 	)
 	(no_connect
+		(at 123.19 76.2)
+		(uuid "1605bb04-1512-4f31-847c-51abdbbdf07c")
+	)
+	(no_connect
 		(at 270.51 82.55)
 		(uuid "1858b303-fef6-4d7a-aaf3-8871f98917b3")
 	)
@@ -4377,12 +4389,20 @@
 		(uuid "19c2e01e-1c54-45f6-9b21-49c410eae75e")
 	)
 	(no_connect
+		(at 57.15 86.36)
+		(uuid "21d2257d-26d4-4d4a-a3ee-26a9ec6c6493")
+	)
+	(no_connect
 		(at 204.47 85.09)
 		(uuid "246f5f28-7e67-4562-ab3a-b537f943429c")
 	)
 	(no_connect
 		(at 270.51 110.49)
 		(uuid "3037dbf6-5be2-4f62-b249-e478046325b8")
+	)
+	(no_connect
+		(at 64.77 158.75)
+		(uuid "305a96d7-6bc4-4853-a84c-1cec309db2cb")
 	)
 	(no_connect
 		(at 270.51 80.01)
@@ -4397,6 +4417,10 @@
 		(uuid "37c59808-760a-4b2a-8df9-396f503ab57f")
 	)
 	(no_connect
+		(at 57.15 50.8)
+		(uuid "3e8f4720-4eca-4310-b857-9b3620e0ca19")
+	)
+	(no_connect
 		(at 204.47 62.23)
 		(uuid "409f19df-fa88-4de4-a7c2-b7ece27fa14b")
 	)
@@ -4405,12 +4429,20 @@
 		(uuid "46657e35-3b23-482c-ae00-08beb1d47e08")
 	)
 	(no_connect
+		(at 57.15 38.1)
+		(uuid "49a8aa35-89ad-42d4-9ba3-31c756f17035")
+	)
+	(no_connect
 		(at 270.51 64.77)
 		(uuid "50d9a494-f3e1-4bdb-a112-299c1b4d7015")
 	)
 	(no_connect
 		(at 270.51 52.07)
 		(uuid "551f2cc1-d4db-45c5-891e-291fb0294a48")
+	)
+	(no_connect
+		(at 57.15 35.56)
+		(uuid "55aa96b0-78e9-44ff-9293-0700a9289f9f")
 	)
 	(no_connect
 		(at 270.51 97.79)
@@ -4437,12 +4469,20 @@
 		(uuid "653fb0d9-2e8f-4b79-8824-7782821052e1")
 	)
 	(no_connect
+		(at 57.15 88.9)
+		(uuid "6643422a-3e43-465a-9359-bf38cfe485c6")
+	)
+	(no_connect
 		(at 270.51 44.45)
 		(uuid "669e633b-f517-4273-b7f7-2a3b239d79da")
 	)
 	(no_connect
 		(at 204.47 72.39)
 		(uuid "710d1d37-f7dd-4426-9e84-6ca9edaf2fae")
+	)
+	(no_connect
+		(at 64.77 153.67)
+		(uuid "88a73be5-2be1-435f-ba66-3769115bdd1e")
 	)
 	(no_connect
 		(at 270.51 105.41)
@@ -4455,6 +4495,10 @@
 	(no_connect
 		(at 270.51 57.15)
 		(uuid "95a78ed0-df64-455a-bec1-f70dcf3ae969")
+	)
+	(no_connect
+		(at 123.19 60.96)
+		(uuid "969d2a6e-e39f-40c8-91be-69898e21133b")
 	)
 	(no_connect
 		(at 204.47 57.15)
@@ -4471,6 +4515,10 @@
 	(no_connect
 		(at 270.51 77.47)
 		(uuid "9b825574-6a76-41d0-8521-c1e9a5f8c0f0")
+	)
+	(no_connect
+		(at 64.77 166.37)
+		(uuid "9f34d8df-1088-4c4c-a605-281eb1e87570")
 	)
 	(no_connect
 		(at 270.51 36.83)
@@ -4501,6 +4549,10 @@
 		(uuid "b085f3a7-f453-4e0d-a535-1a255c9fe8f2")
 	)
 	(no_connect
+		(at 123.19 35.56)
+		(uuid "b44b077d-6f2f-43fd-9d25-c710380db938")
+	)
+	(no_connect
 		(at 270.51 92.71)
 		(uuid "b57c2884-3c06-460e-b601-8f46397898dc")
 	)
@@ -4509,12 +4561,24 @@
 		(uuid "b977f8d2-ec78-466c-8f5e-418df5b7a64a")
 	)
 	(no_connect
+		(at 57.15 66.04)
+		(uuid "bbb8de18-5976-4e2f-8e5a-f1a52ab9160d")
+	)
+	(no_connect
 		(at 204.47 59.69)
 		(uuid "bc9c92fc-7d87-4081-b9c7-ef6116e389c1")
 	)
 	(no_connect
 		(at 270.51 41.91)
 		(uuid "bddbffd8-2aed-4288-9e04-5fc3b0e90c36")
+	)
+	(no_connect
+		(at 123.19 38.1)
+		(uuid "bf2cfd85-fa09-481d-b058-0cbad781caa0")
+	)
+	(no_connect
+		(at 57.15 60.96)
+		(uuid "bfc8e643-51a6-42f0-9ba0-27d89fba2021")
 	)
 	(no_connect
 		(at 270.51 107.95)
@@ -4531,6 +4595,10 @@
 	(no_connect
 		(at 270.51 87.63)
 		(uuid "ca8ffae7-a759-4333-a742-c9a1d3e120db")
+	)
+	(no_connect
+		(at 57.15 48.26)
+		(uuid "d10d77a6-4369-4846-976a-2fd850c24d23")
 	)
 	(no_connect
 		(at 204.47 44.45)
@@ -4585,6 +4653,66 @@
 			(type default)
 		)
 		(uuid "8ff8e0a9-9efd-4b15-b848-21c769978222")
+	)
+	(text "Some pins aren't useable due to its locations and or\ndue to support capacitors over lapping it on the PCB. "
+		(exclude_from_sim no)
+		(at 91.186 103.632 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "60ccc386-c38e-47f8-b7a9-109480b4be0f")
+	)
+	(text "PL IO"
+		(exclude_from_sim no)
+		(at 17.526 17.526 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "62ef7567-c352-4018-9d91-157d404b80a8")
+	)
+	(text "These pins could be use as digital IO, however they're input only for analog. "
+		(exclude_from_sim no)
+		(at 93.218 175.006 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9fa66b38-ba84-4d2e-a713-db9f0d78db52")
+	)
+	(text "DDR RAM (not in use)"
+		(exclude_from_sim no)
+		(at 189.484 16.256 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c800d87b-0b80-4ec0-84c7-39b5fb0377cf")
+	)
+	(text "SYNC-VT plans to utilize DDR RAM in future revisions due \nto its higher speed and more memory dense architecture. \nHowever for this revision, the team wants to lower the\nIO pin counts and to test the usability of PSRAM technoclogies. "
+		(exclude_from_sim no)
+		(at 237.49 129.032 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "db36b675-ed18-405e-a3ee-596ce535db33")
+	)
+	(text "XADC PL IO"
+		(exclude_from_sim no)
+		(at 20.066 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fe2c2acb-95df-4536-9fc2-a0e6beeecfa7")
 	)
 	(global_label "GPIO2"
 		(shape bidirectional)

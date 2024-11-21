@@ -735,6 +735,26 @@
 			)
 		)
 	)
+	(text "64MB of storage each"
+		(exclude_from_sim no)
+		(at 86.106 84.328 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3d19952b-458a-4ca7-9458-9378ef722a94")
+	)
+	(text "PSRAM system"
+		(exclude_from_sim no)
+		(at 23.368 16.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3e6ac215-504b-40e3-8531-3204b3c841ed")
+	)
 	(global_label "~{RAM_CLK}"
 		(shape input)
 		(at 67.31 116.84 180)

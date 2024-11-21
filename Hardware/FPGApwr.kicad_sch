@@ -6530,6 +6530,26 @@
 		)
 		(uuid "fc7a0f55-a2a2-4c4b-8506-907d6f2f8510")
 	)
+	(text "Programming pins"
+		(exclude_from_sim no)
+		(at 23.114 105.664 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7aa350e5-12e8-4373-af79-9924013ce5c4")
+	)
+	(text "FPGA Power pins"
+		(exclude_from_sim no)
+		(at 22.352 15.748 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ab9ca0d8-5372-4d02-9439-12a35608adad")
+	)
 	(symbol
 		(lib_id "ESP32-PRO_Rev_B1:GND")
 		(at 113.03 68.58 0)
